@@ -1,0 +1,9 @@
+altair
+beautifulsoup4
+ghp-import
+ipython
+jupyter
+Markdown
+matplotlib
+nbconvert
+pelican

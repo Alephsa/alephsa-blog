@@ -1,0 +1,8 @@
+title: My first notebook
+slug: start
+lang: en
+author: Nicolas Bohorquez
+date: 2018-05-11
+category: python
+tags: pip
+summary: Using Jupyter Notebooks as source for a blog
