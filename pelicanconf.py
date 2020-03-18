@@ -14,7 +14,7 @@ DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 TIMEZONE = 'America/Bogota'
 
 DEFAULT_LANG = 'en'
-THEME = 'pelican-twitchy'
+THEME = 'theme'
 
 BOOTSTRAP_THEME = "united"
 EXPAND_LATEST_ON_INDEX = True
@@ -59,7 +59,7 @@ IGNORE_FILES = [".ipynb_checkpoints"]
 I18N_SUBSITES = {
     'es': {
         'SITENAME': 'Alephsa',
-        'THEME': 'pelican-twitchy_es',
+        'THEME': 'theme_es',
         'SITESUBTITLE' : 'Imaginación Sostenible - Blog'
     }
 }
